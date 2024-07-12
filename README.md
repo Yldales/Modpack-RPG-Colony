@@ -6,4 +6,9 @@ An experimental modpack for MinecraftForge 1.20.1 based on [Minecolonies](https:
 
 ## Majors changes
 * The overworld is a custom, hand-made map. 
-* The weapons, armors & tools can only be obtained by exploring, defeating ennemis, completing quests, ... 
+* The weapons, armors & tools can only[^1] be obtained by exploring, defeating ennemies, completing quests, ...
+* The gamerule _doLimitedCrafting_ is enabled.
+* The enchanting table is replaced by another system™️.
+* The experience/levels serve to upgrade player's attributes and unlock more stuff (recipes, areas, EpicFight skills, ...).
+
+[^1]: With some exceptions.
