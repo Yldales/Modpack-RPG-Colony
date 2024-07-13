@@ -11,7 +11,4 @@ An experimental modpack for MinecraftForge 1.20.1 based on [Minecolonies](https:
 * The enchanting table is replaced by another system™️.
 * The experience/levels serve to upgrade player's attributes and unlock more stuff (recipes, areas, EpicFight skills, ...).
 
-## Core Mods
-* ...
-
 [^1]: With some exceptions.
