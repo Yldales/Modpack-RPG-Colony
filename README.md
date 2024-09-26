@@ -8,7 +8,7 @@ Heavily inspired by From Software's Souls games.
 ## Majors changes
 * The overworld is a custom, hand-made map. 
 * The weapons, armors & tools can only[^1] be obtained by exploring, defeating ennemies, completing quests, ...
-* The gamerule _doLimitedCrafting_ is enabled.
+* The gamerule _doLimitedCrafting_ is enabled; players unlocks new recipes by obtaining cookbooks.
 * The enchanting table is replaced by another system™️.
 * The experience/levels serve to upgrade player's attributes and unlock more stuff (recipes, areas, fight skills, ...).
 
@@ -21,6 +21,7 @@ Heavily inspired by From Software's Souls games.
 ## Features-that-take-too-long-to-add-for-what-they-are.
 * Random, temporary quests FTBQuests spawning in the overworld and displayed in a _special_ FTBQuest chapter.
 * Custom Apotheosis's affixes for ALL attributes and potion effects registered in the modpack. Outch.
-* Basic AI invasion system.
+* Basic AI invasion system using [PlayerMobs](https://legacy.curseforge.com/minecraft/mc-mods/player-mobs).
+* World-bosses, per biomes.
 
 [^1]: With some exceptions.
